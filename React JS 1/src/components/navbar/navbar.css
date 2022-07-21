@@ -1,0 +1,60 @@
+#logo {
+    
+    margin-left: 20px;
+}
+
+#toggle {
+    background-color: #fc8403;
+}
+
+#span {
+    color: #fc8403;
+    font-size: 1em;
+    margin-left: 20px;
+    font-family: 'Black Ops One', cursive;
+}
+
+#transfer-page {
+    color: #fff;
+    font-size: 1.5em;
+    margin: 0px 50px 0px 50px;
+    font-family: 'Black Ops One', cursive;
+}
+
+#currency-page {
+    color: #fff;
+    font-size: 1.5em;
+    margin: 0px 50px 0px 50px;
+    font-family: 'Black Ops One', cursive;
+}
+
+#icon {
+    width: 15px;
+    height: 15px;
+}
+
+@media only screen and (max-width: 1000px) {
+    #btn-bitcoin {
+      display: none;
+    }
+  }
+
+#btn-bitcoin {
+    color: #fc8403;
+}
+
+#btn-bitcoin:hover {
+    color: #fff;
+    background-color: #040303;
+    border: 1px solid #fff;
+}
+
+#btn-portfolio {
+    color: #fc8403;
+}
+
+#btn-portfolio:hover {
+    color: #fff;
+    background-color: #040303;
+    border: 1px solid #fff;
+}

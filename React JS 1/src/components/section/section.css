@@ -1,0 +1,111 @@
+#container {
+    margin: 50px 10px 50px 10px;
+}
+
+#select-2 {
+    display: none;
+}
+
+#select-3 {
+    display: none;
+}
+
+.select {
+    margin: 50px 10px 50px 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #fff;
+}
+
+select {
+    width: 100%;
+    height: 50px;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 10px 20px 10px;
+    width: auto;
+    background: transparent;
+    border: 1px solid #fff;
+    font-weight: bolder;
+    color: #111;
+}
+
+option {
+    background-color: #040303;
+    color: #fff
+}
+
+#button {
+    display: none;
+    margin: 50px 10px 50px 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #fff;
+}
+
+#form {
+    display: none;
+    margin: 50px 10px 50px 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #fff;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+.title {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #fff;
+    font-size: 1.5em;
+    font-family: 'Black Ops One', cursive;
+}
+
+.btn {
+    margin: 10px 10px 10px 10px;
+    font-weight: bolder;
+}
+
+#answer {
+    width: 100px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: bolder;
+    border: 1px solid #fff;
+    border-radius: 10px;
+}
+
+#error-1 {
+    display: none;
+    color: #111;
+}
+
+#error-2 {
+    display: none;
+    color: #111;
+}
+
+
+label { 
+    color: #fff;
+    font-weight: bolder;
+}
+
+.submit {
+    background-color: #fc8403;
+}
+
+#currency {
+    display: none;
+}
+
+#transfer {
+    display: none;
+}
+
+#btn-transfer {
+    margin-top: 50px;
+}

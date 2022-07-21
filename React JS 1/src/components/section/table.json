@@ -1,0 +1,72 @@
+[
+    {
+        "number": 1,
+        "currency": "USD",
+        "name": "US Dollar",
+        "symbol": "$",
+        "exchange": "20 000"
+    },
+    {
+        "number": 2,
+        "currency": "BGP",
+        "name": "Pound",
+        "symbol": "£",
+        "exchange": "18 000"
+    },
+    {
+        "number": 3,
+        "currency": "EUR",
+        "name": "Euro",
+        "symbol": "€",
+        "exchange": "25 000"
+    },
+    {
+        "number": 4,
+        "currency": "JPY",
+        "name": "Yen",
+        "symbol": "¥",
+        "exchange": "21 000"
+    },
+    {
+        "number": 5,
+        "currency": "CAD",
+        "name": "Canadian Dollar",
+        "symbol": "$",
+        "exchange": "17 000"
+    },
+    {
+        "number": 6,
+        "currency": "YUN",
+        "name": "Yuan",
+        "symbol": "元",
+        "exchange": "33 000"
+    },
+    {
+        "number": 7,
+        "currency": "RUP",
+        "name": "Rupee",
+        "symbol": "₹",
+        "exchange": "28 000"
+    },
+    {
+        "number": 8,
+        "currency": "CHF",
+        "name": "Swiss Franc",
+        "symbol": "¢",
+        "exchange": "9 000"
+    },
+    {
+        "number": 9,
+        "currency": "PST",
+        "name": "Peseta",
+        "symbol": "₧",
+        "exchange": "38 000"
+    },
+    {
+        "number": 10,
+        "currency": "TL",
+        "name": "Turkish Lira",
+        "symbol": "₺",
+        "exchange": "25 000"
+    }
+]
